@@ -13,7 +13,7 @@ import java.io.FileInputStream;
 public class FileUtils {
 
     /**
-     * 文件转字节数组。
+     * 文件转字节数组。d
      *
      * @param filePath
      * @return
